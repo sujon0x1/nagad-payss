@@ -1,4 +1,4 @@
-# Nagad Payment Screenshot Creator 💵📲
+# Nagad Payment Screenshot Creator 💵📲 (only for Bangladesh 🇧🇩)
 
 **Disclaimer**: This project is intended **only for educational purposes**. Please use responsibly and ethically.
 
