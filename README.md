@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the **Nagad Payment Screenshot Creator**! This tool allows users to create realistic Nagad payment screenshots for educational demonstrations or testing purposes. The design closely resembles the original Nagad app, creating an authentic look and feel. (only for Bangladesh 🇧🇩)
+Welcome to the **Nagad Payment Screenshot Creator**! This tool allows users to create realistic Nagad payment screenshots for educational demonstrations or testing purposes. The design closely resembles the original Nagad app, creating an authentic look and feel. **(Only for Bangladesh 🇧🇩)**
 
 > 🚨 **Note**: This project is not open-source but is freely accessible for use.
 
